@@ -10,6 +10,6 @@ app.get('/', (req, res) => {
 });
 
 // Start server on port 300
-app.listen(300, () => {
+app.listen(3000, () => {
   console.log('App listening on port 300');
 });
